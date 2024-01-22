@@ -1,6 +1,6 @@
 ---
-title: "635 Project"
-author: "Arman"
+title: "Logistic regression of clinical data for predictive modelling of Heart disease"
+author: "David Yang, Arman Jahangiri, Mojtaba Kanani Sarcheshmeh"
 date: "2023-11-30"
 output:
   word_document: default
